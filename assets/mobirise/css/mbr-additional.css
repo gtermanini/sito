@@ -1380,7 +1380,7 @@ body {
 .cid-qMoTXswfzb {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
 .cid-qMoTXswfzb .line {
   background-color: #4f4943;
@@ -1464,7 +1464,7 @@ body {
 }
 .cid-qMoRr4xEYQ {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #f9f9f9;
 }
 .cid-qMoRr4xEYQ h2 {
@@ -1525,7 +1525,7 @@ body {
 .cid-qMxGLrbtu3 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
 .cid-qMxGLrbtu3 .socicon-bg-facebook {
   background: #3e5b98;
@@ -1653,12 +1653,12 @@ body {
 }
 .cid-qMoOOkoxer .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #4f4943;
   transition: none;
   min-height: 77px;
 }
 .cid-qMoOOkoxer .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #4f4943;
 }
 .cid-qMoOOkoxer a {
   font-style: normal;
@@ -1742,7 +1742,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qMoOOkoxer .dropdown .dropdown-menu {
-  background: #333333;
+  background: #4f4943;
   display: none;
   position: absolute;
   min-width: 5rem;
